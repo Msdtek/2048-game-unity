@@ -2,6 +2,16 @@
 
 A Unity & C# implementation of the classic **2048** puzzle game featuring a clean grid system, smooth tile merging, localization support, audio, and menu/settings management.
 
+## 📸 Screenshots
+<p align="center">
+  <img src="images/game_2048_1.png" width="45%" alt="2048 Screenshot 1" />
+  <img src="images/game_2048_2.png" width="45%" alt="2048 Screenshot 2" />
+</p>
+<p align="center">
+  <img src="images/game_2048_3.png" width="45%" alt="2048 Screenshot 3" />
+  <img src="images/game_2048_4.png" width="45%" alt="2048 Screenshot 4" />
+</p>
+
 ## ✨ Features
 - **Core 2048 Mechanics:** Grid-based movement, tile spawning (`Spawner`), and merging logic (`MergeController`).
 - **Score System:** Live score tracking via `ScoreManager`.
